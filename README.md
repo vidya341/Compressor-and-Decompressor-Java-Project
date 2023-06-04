@@ -16,4 +16,4 @@ This project implements a file chooser that helps choose a file from anywhere in
 File Input Stream to read the bytes of the input file.
 File Output Stream to contain the output file in the same directory.
 Gzip Output Stream to compress the file.
-Gzip Input Stream to compress the file.
+Gzip Input Stream to decompress the file.
